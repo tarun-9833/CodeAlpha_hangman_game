@@ -1,4 +1,4 @@
-Re# Hangman Game – Python
+# Hangman Game – Python
 
 A simple and interactive Hangman Game developed using Python. This project is designed as a beginner-friendly Python programming project to demonstrate basic programming concepts such as lists, strings, loops, conditional statements, user input, and the random module.
 
